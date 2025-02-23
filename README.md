@@ -14,23 +14,31 @@ Expense Tracker is a web application designed to help users manage their finance
 - Secure and private data handling
 
 ## Project Structure
-frontend/
-├── public/
-├── src/ 
-│ ├── components/ 
-│ ├── pages/ 
-│ ├── pagesCSS/ 
-│ ├── App.js 
-│ ├── App.css
-│ └── index.js 
-└── package.json 
-backend/
-├── controllers/ 
-├── models/
-├── routes/ 
-├── middleware/ 
-├── app.js 
-└── package.json 
+
+### Frontend  
+```
+frontend/  
+├── public/               # Статические файлы (иконки, манифест, index.html)  
+├── src/                  # Исходный код фронтенда  
+│   ├── components/       # Повторно используемые компоненты  
+│   ├── pages/            # Основные страницы приложения  
+│   ├── pagesCSS/         # Стили для страниц  
+│   ├── App.js            # Основной компонент приложения  
+│   ├── App.css           # Глобальные стили  
+│   └── index.js          # Точка входа  
+└── package.json          # Зависимости и настройки проекта  
+```
+
+### Backend  
+```
+backend/  
+├── controllers/          # Логика обработки запросов  
+├── models/               # Определения моделей базы данных  
+├── routes/               # Определения маршрутов API  
+├── middleware/           # Промежуточные обработчики (аутентификация, логирование и т. д.)  
+├── app.js                # Основной файл сервера  
+└── package.json          # Зависимости и настройки проекта  
+```
 
 ## Tools and Technologies Used
 - **Frontend:**

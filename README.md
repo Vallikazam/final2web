@@ -1,7 +1,9 @@
 # Expense Tracker
-## Group: SE-2321 Web2Final ## Student: Alinur Zhumadil
+### Group: SE-2321 Web2Final 
+### Student: Alinur Zhumadil
+
 ## Project Overview
-Expense Tracker is a web application designed to help users manage their finances effectively. The application allows users to track their income and expenses, visualize their financial health, and make informed decisions. This project is part of the Web2Final course and was developed by Alinur Zhumadil.
+Expense Tracker is a web application designed to help users manage their finances effectively. The application allows users to track their income and expenses, visualize their financial health, and make informed decisions.
 
 ## Features
 - User registration and login
@@ -13,22 +15,22 @@ Expense Tracker is a web application designed to help users manage their finance
 
 ## Project Structure
 frontend/
-├── public/ # Public assets
-├── src/ # Source files for the frontend
-│ ├── components/ # Reusable components
-│ ├── pages/ # Page components
-│ ├── pagesCSS/ # CSS files for pages
-│ ├── App.js # Main application component
-│ ├── App.css # Global styles
-│ └── index.js # Entry point for React
-└── package.json # Frontend dependencies and scripts
+├── public/
+├── src/ 
+│ ├── components/ 
+│ ├── pages/ 
+│ ├── pagesCSS/ 
+│ ├── App.js 
+│ ├── App.css
+│ └── index.js 
+└── package.json 
 backend/
-├── controllers/ # Controllers for handling requests
-├── models/ # Mongoose models for MongoDB
-├── routes/ # API routes
-├── middleware/ # Middleware for authentication
-├── app.js # Main application file
-└── package.json # Backend dependencies and scripts
+├── controllers/ 
+├── models/
+├── routes/ 
+├── middleware/ 
+├── app.js 
+└── package.json 
 
 ## Tools and Technologies Used
 - **Frontend:**

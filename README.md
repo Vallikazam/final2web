@@ -1,5 +1,5 @@
 # Expense Tracker
-
+## Group: SE-2321 Web2Final ## Student: Alinur Zhumadil
 ## Project Overview
 Expense Tracker is a web application designed to help users manage their finances effectively. The application allows users to track their income and expenses, visualize their financial health, and make informed decisions. This project is part of the Web2Final course and was developed by Alinur Zhumadil.
 

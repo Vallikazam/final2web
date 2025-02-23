@@ -17,32 +17,32 @@ Expense Tracker is a web application designed to help users manage their finance
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b31e8dbe-f146-43ee-8317-4af54ddbc664" alt="Снимок экрана 2025-02-23 204514"><br>
-  Main Page
+  ### Main Page
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/986df10b-83af-4d31-b185-a93f7aed26ae" alt="Снимок экрана 2025-02-23 204451"><br>
-  Login
+  ### Login
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/39657f12-596f-4c6b-8f6c-c626327555f6" alt="Снимок экрана 2025-02-23 204528"><br>
-  Register
+  ### Register
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cabe8aa6-5181-4a95-ac02-470ee51ed6cd" alt="Снимок экрана 2025-02-23 204729"><br>
-  Welcome Page with chart(pie diagram) based on users transactions
+  ### Welcome Page with chart(pie diagram) based on users transactions
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8d5e0fa-61b5-476b-b7ef-4fbd02b8966a" alt="Снимок экрана 2025-02-23 204659"><br>
-  Income Form and history table
+  ### Income Form and history table
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e4a9906-9da8-4de4-8158-032ed48e48cb" alt="Снимок экрана 2025-02-23 204740"><br>
-  Expense Form and history table
+  ### Expense Form and history table
 </p>
 ## Project Structure
 
